@@ -1,0 +1,7 @@
+backups/
+*.cfg
+*.log
+*.dmp
+*.mdmp
+*.dat
+*.zip
